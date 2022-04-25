@@ -37,6 +37,9 @@ sudo pacman -S htop -y
 sudo pacman -S btop -y
 sudo pacman -S neofetch -y
 sudo pacman -S xfce4-terminal -y
+sudo pacman -S rkhunter -y
+sudo pacman -S chkrootkit -y
+sudo pacman -S lynis -y
 
 sleep 1
 
