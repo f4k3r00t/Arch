@@ -40,6 +40,7 @@ sudo pacman -S xfce4-terminal -y
 sudo pacman -S rkhunter -y
 sudo pacman -S chkrootkit -y
 sudo pacman -S lynis -y
+sudo pacman -S clipgrab
 
 sleep 1
 
