@@ -11,6 +11,4 @@ alias wav='youtube-dl --extract-audio --audio-format wav'
 alias wav='youtube-dl --extract-audio --audio-format mp3'
 alias la='ls -la'
 alias ll='ls -ll'
-alias tobash='sudo chsch $USER -s /bin/bash && echo 'Now Log Out'
-alias tozsh='sudo chsch $USER -s /bin/zsh && echo 'Now Log Out'
 alias nf='neofetch
