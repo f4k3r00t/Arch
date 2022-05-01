@@ -16,31 +16,31 @@ sudo apt pacman -Syyu
 
 sleep 1
 
-sudo pacman -S vlc -y
-sudo pacman -S python3-pip -y
-sudo pacman -S git -y
-sudo pacman -S vim -y
-sudo pacman -S youtube-dl -y
-sudo pacman -S torbrowser-launcher -y
-sudo pacman -S tor -y
-sudo pacman -S proxychains4 -y
-sudo pacman -S keepassxc -y
-sudo pacman -S font-hack -y
-sudo pacman -S ristretto -y
-sudo pacman -S gallery-dl -y
-sudo pacman -S gufw -y
-sudo pacman -S bleachbit -y
-sudo pacman -S atril -y
-sudo pacman -S gparted -y
-sudo pacman -S mousepad -y
-sudo pacman -S htop -y
-sudo pacman -S btop -y
-sudo pacman -S neofetch -y
-sudo pacman -S xfce4-terminal -y
-sudo pacman -S rkhunter -y
-sudo pacman -S chkrootkit -y
-sudo pacman -S lynis -y
-sudo pacman -S clipgrab
+sudo pacman -S –noconfirm vlc
+sudo pacman -S –noconfirm python3-pip
+sudo pacman -S –noconfirm git 
+sudo pacman -S –noconfirm vim 
+sudo pacman -S –noconfirm youtube-dl 
+sudo pacman -S –noconfirm torbrowser-launcher 
+sudo pacman -S –noconfirm tor 
+sudo pacman -S –noconfirm proxychains4 
+sudo pacman -S –noconfirm keepassxc 
+sudo pacman -S –noconfirm font-hack 
+sudo pacman -S –noconfirm ristretto 
+sudo pacman -S –noconfirm gallery-dl 
+sudo pacman -S –noconfirm gufw 
+sudo pacman -S –noconfirm bleachbit 
+sudo pacman -S –noconfirm atril 
+sudo pacman -S –noconfirm gparted 
+sudo pacman -S –noconfirm mousepad 
+sudo pacman -S –noconfirm htop 
+sudo pacman -S –noconfirm btop 
+sudo pacman -S –noconfirm neofetch 
+sudo pacman -S –noconfirm xfce4-terminal 
+sudo pacman -S –noconfirm rkhunter 
+sudo pacman -S –noconfirm chkrootkit 
+sudo pacman -S –noconfirm lynis 
+sudo pacman -S –noconfirm clipgrab
 
 sleep 1
 
