@@ -1,0 +1,28 @@
+[global_config]
+  title_at_bottom = True
+  title_transmit_bg_color = "#ff0000"
+  title_receive_bg_color = "#d41919"
+  title_inactive_fg_color = "#ffffff"
+  title_inactive_bg_color = "#ff0000"
+  title_use_system_font = False
+  title_font = Hack 13
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 0.75
+    background_type = transparent
+    cursor_shape = underline
+    cursor_color = "#aaaaaa"
+    font = Hack 12
+    foreground_color = "#ffffff"
+    palette = "#1f2229:#d41919:#5ebdab:#fea44c:#367bf0:#9755b3:#49aee6:#e6e6e6:#198388:#ec0101:#47d4b9:#ff8a18:#277fff:#962ac3:#05a1f7:#ffffff"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
